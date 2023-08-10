@@ -2,7 +2,8 @@
 
 Exercício da aula de SETUP da Cubos Academy
 
-Proposta
+<strong>Proposta</strong>
+<br/>
 Tente fazer o passo a passo abaixo sem consultar as aulas inicialmente. Caso não se lembre como realizar alguns dos passos, sinta-se a vontade para consultar as aulas.
 
 <ul>
